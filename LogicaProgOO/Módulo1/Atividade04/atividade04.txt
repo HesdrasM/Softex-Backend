@@ -1,0 +1,40 @@
+início ()
+caractere Nome 
+escreva ( Nome )
+leia ( Nome ) 
+
+caractere Endereço
+escreva ( Endereço )
+leia ( Endereço )
+
+caractere Cidade
+escreva ( Cidade )
+leia ( Cidade )
+
+inteiro CPF
+escreva ( CPF )
+leia (CPF )
+
+inteiro RG 
+escreva ( RG )
+leia ( RG )
+
+inteiro idade
+escreva ( idade )
+leia ( idade ) 
+
+caractere Nome da Mãe
+escreva ( Nome da Mãe )
+leia ( Nome da Mãe )
+
+caractere Nome do Pai
+escreva ( Nome do Pai )
+leia ( Nome do Pai )
+
+reais peso
+escreva ( peso )
+leia ( peso )
+
+reais renda bruta
+escreva ( renda bruta )
+leia ( renda bruta )
