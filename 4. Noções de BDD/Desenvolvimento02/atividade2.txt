@@ -1,0 +1,9 @@
+O desenvolvimento de um projeto de banco de dados passa por fases que são de 
+grande importância para sua implementação. 
+Descreva as etapas desse processo.
+
+- Análise de requisitos.
+- Modelo Conceitual.
+- Modelo Lógico.
+- Modelo Físico.
+
