@@ -1,0 +1,28 @@
+Descreva o processo de normalização citando as formas normais apresentadas.
+
+As formas normais são sequenciais, ou seja, se um banco se encontra na terceira
+forma normal, isso também significa que o mesmo está na segunda e também na primeira. Por isso devemos sempre começar a 
+normalização pela primeira forma normal, para que não hajam problemas mais a frente na nossa normalização.
+
+- Primeira forma normal (1fn):
+
+ .possui chave primaria;
+ .não possui grupos repetitivos;
+ .Todos os seus atributos são atômicos, então não precisa ser decomposto;
+
+- Segunda forma normal (2fn):
+
+ .Está na primeira forma normal (1fn);
+ .Não possui dependências parciais da chave primária;
+
+- Terceira forma normal (3fn):
+
+ .Está na segunda forma normal;
+ .Se nenhum dos campos foram determinados transitivamente pela chave primária;
+
+- Forma normal (FNBC):
+
+.essa forma normal deve ser aplicada às tabelas em 3FN que possuam mais de
+uma chave candidata;
+
+
