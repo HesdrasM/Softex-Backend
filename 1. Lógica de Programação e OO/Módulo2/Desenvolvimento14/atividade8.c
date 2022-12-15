@@ -21,5 +21,5 @@ Por fim, o programa deverá mostrar na tela:
 int main(void){
   float nota1, nota2;
   int faltas;
-  printf("/n==============")
+  printf("\n");
 }
