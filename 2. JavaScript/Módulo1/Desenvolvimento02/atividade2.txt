@@ -1,0 +1,5 @@
+ O ambiente de edição de código escolhido foi o Visual Studio Code, por ter uma enorme gama de extenções 
+facilitando assim o desenvolvimento de códigos na linguagem abordada neste curso.
+
+instalei algumas extenções como a GitLens para facilitar na utilização do Git
+
