@@ -1,0 +1,9 @@
+Dado no cotidiano
+1 Nome de rua: tipo string
+2 Choveu ontém?: tipo boolean
+3 Andar onde mora: tipo number
+
+Dado na internet
+1 Fechar janela?: tipo boolean
+2 Nome de usuário: tipo string
+3 quantidade de itens no carrinho: tipo number 
