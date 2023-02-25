@@ -1,0 +1,19 @@
+De acordo com o conteúdo estudado, 
+cite exemplos de Sistemas de Bancos de Dados relacionais e não relacionais (NoSQL).
+
+
+
+Exemplos de Sistemas de Bancos de Dados Relacionais:
+
+MySQL
+Oracle
+Microsoft SQL Server
+PostgreSQL
+SQLite
+Exemplos de Sistemas de Bancos de Dados Não-Relacionais (NoSQL):
+
+MongoDB
+Cassandra
+Redis
+Couchbase
+Amazon DynamoDB
