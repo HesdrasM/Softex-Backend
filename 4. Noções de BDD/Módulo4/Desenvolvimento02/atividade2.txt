@@ -1,0 +1,24 @@
+Uma empresa está sofrendo ataques que impactam diretamente a sua segurança. 
+Então, ela precisa atualizar as senhas de todos os seus funcionários. 
+Cite pelo menos três métodos para melhorar essas senhas.
+
+
+
+
+1- Exigir senhas mais longas: Uma senha longa é mais difícil de quebrar do que 
+uma senha curta. Exigir senhas com pelo menos 12 caracteres é uma boa prática, e algumas 
+organizações podem exigir senhas ainda mais longas. Além disso, é importante incentivar 
+os funcionários a usar senhas diferentes para diferentes contas.
+
+2- Usar senhas fortes: Senhas fortes devem incluir uma combinação de letras maiúsculas
+e minúsculas, números e caracteres especiais. A senha não deve conter informações pessoais
+óbvias, como nome ou data de nascimento. Também é importante evitar senhas comuns, como "123456" ou "senha".
+
+3- Implementar autenticação de múltiplos fatores: A autenticação de múltiplos 
+fatores é uma camada adicional de segurança que exige que os usuários forneçam uma segunda 
+forma de autenticação além de uma senha, como um código enviado por mensagem de texto ou um token de segurança. 
+Isso ajuda a garantir que apenas usuários autorizados possam acessar as informações da empresa, mesmo se um invasor tiver a senha correta.
+
+4- Criptografar senhas armazenadas: Quando as senhas dos usuários são armazenadas em um banco de dados ou em algum outro local, 
+é importante criptografá-las. Isso ajuda a garantir que, mesmo que um invasor acesse
+o banco de dados, ele não possa ler as senhas sem primeiro decifrá-las.
