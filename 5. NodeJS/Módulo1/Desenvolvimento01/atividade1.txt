@@ -1,0 +1,27 @@
+Com base nos vídeos 1 e 2, explique como a web funciona a partir do ponto de vista 
+do protocolo cliente servidor. Crie o começo de um projeto em node.js, usando o npm
+e informe os comandos utilizados.
+
+
+
+A web funciona a partir do protocolo cliente-servidor, onde o cliente faz uma solicitação
+(request) a um servidor para obter informações ou recursos. Em seguida, o servidor responde 
+(response) à solicitação do cliente, fornecendo as informações ou recursos solicitados.
+
+No contexto da web, o cliente é geralmente um navegador da web (como o Chrome ou Firefox)
+e o servidor é um computador remoto que hospeda o site ou aplicação web. O navegador da web
+envia uma solicitação HTTP (Hypertext Transfer Protocol) para o servidor, que contém informações 
+sobre o recurso solicitado, como a URL (Uniform Resource Locator) e o método HTTP (GET, POST, PUT, DELETE, etc.).
+
+O servidor recebe a solicitação HTTP e processa a solicitação, buscando o recurso solicitado 
+e retornando-o em uma resposta HTTP. A resposta HTTP inclui informações sobre o status da solicitação 
+(como 200 OK para uma solicitação bem-sucedida ou 404 Not Found para uma solicitação mal sucedida), 
+bem como o conteúdo do recurso solicitado (como uma página HTML, uma imagem, um arquivo JSON, etc.).
+
+O navegador da web recebe a resposta HTTP do servidor e exibe o conteúdo do recurso solicitado ao usuário. 
+O navegador da web também pode enviar solicitações adicionais para buscar outros recursos necessários para 
+exibir a página web completa, como arquivos CSS, JavaScript e imagens.
+
+Assim, o protocolo cliente-servidor é a base do funcionamento da web, permitindo que os usuários acessem 
+informações e recursos de servidores remotos em todo o mundo, tornando a internet uma rede global de comunicação e informação.
+
