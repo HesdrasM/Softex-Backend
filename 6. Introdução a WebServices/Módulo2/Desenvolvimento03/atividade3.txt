@@ -1,0 +1,15 @@
+Explique quais são as seis regras de uma API REST.
+
+
+
+Arquitetura Cliente-Servidor: essa regra estabelece que a interação entre o cliente e o servidor deve ser claramente definida, com responsabilidades bem definidas para cada um. O cliente envia solicitações ao servidor, que responde com uma resposta adequada.
+
+Stateless: a regra Stateless estabelece que cada solicitação do cliente deve conter todas as informações necessárias para o servidor entender a solicitação e enviar uma resposta adequada. O servidor não deve armazenar informações sobre o estado do cliente entre as solicitações.
+
+Cache: essa regra estabelece que as respostas do servidor devem ser explicitamente marcadas como cacheáveis ou não-cacheáveis. As respostas cacheáveis podem ser armazenadas em cache pelo cliente para reutilização posterior.
+
+Interface Uniforme: essa regra estabelece que a interface para interagir com o serviço deve ser uniforme, com recursos identificados por URLs, representação de recursos em formatos padrão, operações em recursos usando métodos HTTP padrão (GET, POST, PUT, DELETE, etc.) e controle de hypermedia através de links dentro das representações de recursos.
+
+Sistema em Camadas: a regra de Sistema em Camadas estabelece que o cliente não precisa saber se está se comunicando diretamente com o servidor ou com um intermediário, como um balanceador de carga ou um cache. Cada camada deve ser transparente para o cliente.
+
+Código sob Demanda (opcional): essa regra estabelece que o servidor pode enviar código executável, como JavaScript, para ser executado no cliente, se necessário. Essa regra é opcional e não é comumente usada em APIs REST.
